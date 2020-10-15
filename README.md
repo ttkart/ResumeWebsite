@@ -1,2 +1,12 @@
-# Resume_Website
-Website hosted on AWS, using services such as CloudFront, Route53, Certificate Manager, S3
+
+
+
+
+## Learning objectives: 
+Through this project, I learned how to use different AWS services: CloudFront, S3, CertificateManager, Route53. Now I have hands-on knowledge of creating a website with a domain through with the aws services! 
+
+
+Solution Architecture Diagram for my website!
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![](Diagram.png)
